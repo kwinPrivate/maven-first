@@ -1,5 +1,5 @@
 # maven-first 这是我的第一个 maven 项目
-###建库建表 sql
+### 建库建表 sql
 ```
 CREATE DATABASE mybatis DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
 
